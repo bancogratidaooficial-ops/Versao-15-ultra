@@ -1,0 +1,16 @@
+{
+  "name": "Banco Gratidão V15.0 ULTRA",
+  "short_name": "Gratidão V15",
+  "description": "V15 ULTRA com IA, Sonora, Apoiar, VIP, Lixeirinha e tudo!",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#FFD700",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/833/833472.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
